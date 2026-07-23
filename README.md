@@ -1,3 +1,3 @@
 This repository contains the available files for A+ Emotes for Emote Wheel. Due to it being unsupported (deprecated) on Thunderstore.
 
-If you wish to reupload, please give credit to Nori for A+
+If you wish to reupload, please give credit to Nori for A+ and Stoingularity for the icons unless otherwise.
