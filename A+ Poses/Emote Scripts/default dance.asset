@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1885282903, guid: 32a29183c9bb36a4f94fb7682f0b9ab1, type: 3}
+  m_Name: default dance
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 93e15b529f4d3bc42bc8474b04d630cc, type: 3}
+  background: {fileID: 21300000, guid: bd464bde64e669d47ba91c9f4cf79396, type: 2}
+  backgroundSelected: {fileID: 21300000, guid: 7a4f0eb59f5af0341ba71248f5e4eb9e, type: 2}
+  emoteName: Default Dance!
+  emoteID: 
+  isVanilla: 0
+  init: {fileID: 0}
+  loop: {fileID: 7400000, guid: 133288c98f08db141bff0560a65a7871, type: 2}
+  ExitTime: 0
+  TransitionDuration: 0
+  TransitionOffset: 0
